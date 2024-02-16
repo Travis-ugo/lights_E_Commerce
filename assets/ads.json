@@ -1,0 +1,14 @@
+{
+    "ads": [
+        {
+            "ads_title": "It's simple",
+            "ads_image_path": "ad_1"
+        },
+
+        {
+            "ads_title": "Shoe Number One",
+            "ads_image_path": "ad_4"
+        }
+      
+    ]
+}

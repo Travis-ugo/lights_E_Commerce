@@ -1,0 +1,167 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "item_name": "Silk shirt",
+            "item_price": "2,300",
+            "item_category": "Men",
+            "item_images": [
+                "silk_shirt_1",
+                "silk_shirt_2",
+                "silk_shirt_3",
+                "silk_shirt_4",
+                "silk_shirt_5"
+            ]
+        },
+        {
+            "id": "2",
+            "item_name": "Double Match cotton shirt",
+            "item_price": "1,300",
+            "item_category": "Men",
+            "item_images": [
+                "double_match_cotton_shirt_1",
+                "double_match_cotton_shirt_2",
+                "double_match_cotton_shirt_3",
+                "double_match_cotton_shirt_4",
+                "double_match_cotton_shirt_5"
+            ]
+        },
+        {
+            "id": "3",
+            "item_name": "Double Match heavy cotton shirt",
+            "item_price": "1,450",
+            "item_category": "Men",
+            "item_images": [
+                "double_match_heavy_cotton_shirt_1",
+                "double_match_heavy_cotton_shirt_2",
+                "double_match_heavy_cotton_shirt_3",
+                "double_match_heavy_cotton_shirt_4",
+                "double_match_heavy_cotton_shirt_5"
+            ]
+        },
+        {
+            "id": "4",
+            "item_name": "Cotton shirt with zipper",
+            "item_price": "5,100",
+            "item_category": "Men",
+            "item_images": [
+                "cotton_shirt_with_zipper_1",
+                "cotton_shirt_with_zipper_2",
+                "cotton_shirt_with_zipper_3",
+                "cotton_shirt_with_zipper_4",
+                "cotton_shirt_with_zipper_5"
+            ]
+        },
+        {
+            "id": "5",
+            "item_name": "Cotton fleece joggers with feather trimr",
+            "item_price": "4,000",
+            "item_category": "Women",
+            "item_images": [
+                "cotton_fleece_joggers_with_feather_trim_1",
+                "cotton_fleece_joggers_with_feather_trim_2",
+                "cotton_fleece_joggers_with_feather_trim_3",
+                "cotton_fleece_joggers_with_feather_trim_4",
+                "cotton_fleece_joggers_with_feather_trim_5"
+            ]
+        },
+        {
+            "id": "6",
+            "item_name": "Sablé dress",
+            "item_price": "2,000",
+            "item_category": "Women",
+            "item_images": [
+                "sablé_dress_1",
+                "sablé_dress_2",
+                "sablé_dress_3",
+                "sablé_dress_4",
+                "sablé_dress_5"
+            ]
+        },
+        {
+            "id": "7",
+            "item_name": "Printed pongé dress",
+            "item_price": "3,350",
+            "item_category": "Women",
+            "item_images": [
+                "printed_pongé_dress_1",
+                "printed_pongé_dress_2",
+                "printed_pongé_dress_3",
+                "printed_pongé_dress_4",
+                "printed_pongé_dress_5"
+            ]
+        },
+        {
+            "id": "8",
+            "item_name": "Saffiano leather Driver",
+            "item_price": "1,350",
+            "item_category": "Shoes",
+            "item_images": [
+                "saffiano_leather_driver_1",
+                "saffiano_leather_driver_2",
+                "saffiano_leather_driver_3"
+            ]
+        },
+        {
+            "id": "9",
+            "item_name": "Patent leather slingbacks",
+            "item_price": "1,200",
+            "item_category": "Shoes",
+            "item_images": [
+                "patent_leather_slingbacks_1",
+                "patent_leather_slingbacks_2",
+                "patent_leather_slingbacks_3",
+                "patent_leather_slingbacks_4",
+                "patent_leather_slingbacks_5",
+                "patent_leather_slingbacks_6",
+                "patent_leather_slingbacks_7"
+            ]
+        },
+        {
+            "id": "10",
+            "item_name": "Satin slingbacks with crystals",
+            "item_price": "1,000",
+            "item_category": "Shoes",
+            "item_images": [
+                "satin_slingbacks_with_crystals_1",
+                "satin_slingbacks_with_crystals_2",
+                "satin_slingbacks_with_crystals_3",
+                "satin_slingbacks_with_crystals_4",
+                "satin_slingbacks_with_crystals_5",
+                "satin_slingbacks_with_crystals_6",
+                "satin_slingbacks_with_crystals_7"
+            ]
+        },
+        {
+            "id": "11",
+            "item_name": "Downtown leather sneakers",
+            "item_price": "1,100",
+            "item_category": "Shoes",
+            "item_images": [
+                "downtown_leather_sneakers_1",
+                "downtown_leather_sneakers_2",
+                "downtown_leather_sneakers_3",
+                "downtown_leather_sneakers_4",
+                "downtown_leather_sneakers_5",
+                "downtown_leather_sneakers_6",
+                "downtown_leather_sneakers_7"
+            ]
+        },
+        {
+            "id": "12",
+            "item_name": "Prada Re-Edition 2005 Saffiano leather bag",
+            "item_price": "2,600",
+            "item_category": "Bags",
+            "item_images": [
+                "prada_re-edition_2005_saffiano_leather_bag_1",
+                "prada_re-edition_2005_saffiano_leather_bag_2",
+                "prada_re-edition_2005_saffiano_leather_bag_3",
+                "prada_re-edition_2005_saffiano_leather_bag_4",
+                "prada_re-edition_2005_saffiano_leather_bag_5",
+                "prada_re-edition_2005_saffiano_leather_bag_6",
+                "prada_re-edition_2005_saffiano_leather_bag_7",
+                "prada_re-edition_2005_saffiano_leather_bag_8"
+            ]
+        }
+    ]
+}
